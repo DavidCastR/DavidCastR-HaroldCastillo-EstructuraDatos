@@ -18,19 +18,19 @@ public class EjercicioListasEnlazadas {
         lista.agregarAlFinal(15);
         lista.agregarAlFinal(9);
         
-        System.out.println("Ejemplo de lista Simple\nImpresion de lista antes de agregar");
+        System.out.println("Ejemplo de lista Simple\n\nImpresion de lista antes de agregar");
         lista.listar();
         lista.agregarAlFinal(8);
         System.out.println("\nImpresion de lista despues de agregar");
         lista.listar();
         
-        System.out.println("\nImpresion de lista antes de eliminar - Eliminando posicion 1");
+        System.out.println("\n\nImpresion de lista antes de eliminar - Eliminando posicion 1");
         lista.listar();
         lista.removerPorPosicion(1);
         System.out.println("\nImpresion de lista despues de eliminar");
         lista.listar();
         
-        System.out.println("\nImpresion de lista");
+        System.out.println("\n\nImpresion de lista");
         lista.listar();
     }
 }
