@@ -1,0 +1,5 @@
+14;Juan Lopez;13;Masculino;Rayos X;35000;1
+1;Carlos Ruiz;67;Masculino;Examen de Prostata;35000;2
+5;Maria Rodriguez;45;Femenino;Examen de mama;120000;2
+8;Luisa Perez;28;Femenino;Examen de Embarazo en sangre;50000;1
+9;Jonathan Beltran;29;Masculino;Examen de Sangre;35000;3
